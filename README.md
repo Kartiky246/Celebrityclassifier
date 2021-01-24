@@ -1,6 +1,15 @@
 # Celebrityclassifier
 
 
+
+Download the folder from below link to test this model, it contains some random images of these celebrities
+
+
+https://drive.google.com/drive/folders/1CDqg6UxtdfUcaclX0Chxk1cCYCfKzZlt?usp=sharing
+
+
+
+
 The UI for this web app is shown below
 
 
