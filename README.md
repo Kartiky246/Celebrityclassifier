@@ -1,5 +1,8 @@
 # Celebrityclassifier
 
+The url for this web app is-
+
+http://ec2-3-136-158-94.us-east-2.compute.amazonaws.com/
 
 
 Download the folder from below link to test this model, it contains some random images of these celebrities
@@ -23,6 +26,3 @@ The user just need to drag and drop the file in the box and click on classify bu
 
 
 
-The url for this web app is-
-
-http://ec2-3-136-158-94.us-east-2.compute.amazonaws.com/
