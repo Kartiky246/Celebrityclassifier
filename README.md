@@ -25,4 +25,4 @@ The user just need to drag and drop the file in the box and click on classify bu
 
 The url for this web app is-
 
-http://ec2-3-134-82-146.us-east-2.compute.amazonaws.com/
+http://ec2-3-136-158-94.us-east-2.compute.amazonaws.com/
